@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Order Now</name>
+   <tag></tag>
+   <elementGuidId>7b98e0e8-851f-4680-95ca-4fed7cec0c63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.bottomhome</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@onclick=&quot;document.location='login'&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f2103d36-c1bb-4e37-9845-df205d27df6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bottomhome</value>
+      <webElementGuid>00766d6b-0488-4561-b173-d438c9b6718c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.location='login'</value>
+      <webElementGuid>3241bfe3-0e2d-4c5a-b913-1f9473870166</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order Now</value>
+      <webElementGuid>24847e82-1065-45f6-9745-c6c4482f6171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;main&quot;]/div[@class=&quot;bottom&quot;]/button[@class=&quot;bottomhome&quot;]</value>
+      <webElementGuid>ca774e3e-9304-4af5-9bb6-94fff8aa5025</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick=&quot;document.location='login'&quot;]</value>
+      <webElementGuid>9daab03a-43ed-4f39-abd5-ac8bbe52f5be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enjoy a good time with the best dishes in restaurant and improve your day'])[1]/following::button[1]</value>
+      <webElementGuid>200af990-debf-4015-8109-835ce6e2f6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enjoy Delicious Korean Food'])[1]/following::button[1]</value>
+      <webElementGuid>b969d88d-dda8-4452-9696-3ce155c89b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Order Now']/parent::*</value>
+      <webElementGuid>c337d6ad-a18b-4e41-b6d2-7c7ba1bd5aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>24dfdece-7b72-417b-a308-7fd26f000a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Order Now' or . = 'Order Now')]</value>
+      <webElementGuid>93efa4d4-631f-440d-9e84-f8256fd27e1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

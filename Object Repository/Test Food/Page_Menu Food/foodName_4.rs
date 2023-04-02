@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>foodName_4</name>
+   <tag></tag>
+   <elementGuidId>04a26d01-a986-442b-86af-dfdfb9d4f594</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sub-food > h4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[4]/div/h4[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>10f603b6-82ef-4e42-8613-22e5df1b0066</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>haejangguk</value>
+      <webElementGuid>b9462737-14ab-4c5a-b15e-3fc97d48ab2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;food&quot;]/div[@class=&quot;sub-food&quot;]/h4[1]</value>
+      <webElementGuid>25b4a5a0-8d04-4398-aa71-df320889e00e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Food'])[1]/following::h4[1]</value>
+      <webElementGuid>a23129e7-3f25-4e37-88bf-242f24007655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/following::h4[1]</value>
+      <webElementGuid>c2b261cd-7e70-41ee-92fe-f74750916de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='thick and spicy soup made from beef bone'])[1]/preceding::h4[1]</value>
+      <webElementGuid>88c59943-a0e5-4cee-9690-ea83059f9428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kimbup'])[1]/preceding::h4[2]</value>
+      <webElementGuid>2a877503-65e1-4bd5-a254-fb031abef999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='haejangguk']/parent::*</value>
+      <webElementGuid>35d2137c-7e24-434e-bb7c-d580a17cb3bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h4</value>
+      <webElementGuid>746d67c1-8dc9-4ed2-8a9f-1e202f27f58b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'haejangguk' or . = 'haejangguk')]</value>
+      <webElementGuid>c6d23a5e-31bc-4db2-b18d-83d742026ee2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

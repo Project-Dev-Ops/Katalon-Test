@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>price_2</name>
+   <tag></tag>
+   <elementGuidId>b9dbaa2a-a766-4743-b4c4-7bc1d0ffc5ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[3]/div[2]/div/h4[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>9417b8d9-ceea-4af9-9be7-9fdd95a93a04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>100 Bath</value>
+      <webElementGuid>2d4d3d2c-4059-46f9-8727-af7e0964e566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;food&quot;]/div[@class=&quot;sub-food&quot;]/h4[2]</value>
+      <webElementGuid>68aeb2b5-94c2-4413-97a5-f5b00f4cd04c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='thick and spicy soup made from beef bone'])[1]/following::h4[1]</value>
+      <webElementGuid>062553c6-dbff-48d5-a7c4-d58b5d2d84ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='haejangguk'])[1]/following::h4[1]</value>
+      <webElementGuid>21793845-d53e-43c3-88cf-a26d1f89da6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kimbup'])[1]/preceding::h4[1]</value>
+      <webElementGuid>f8ce86dc-0364-4087-9812-1bf6934c55f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='made from cooked rice ingredients and meats'])[1]/preceding::h4[2]</value>
+      <webElementGuid>573d87a9-1b85-4a6c-94e7-079b6458d2f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='100 Bath']/parent::*</value>
+      <webElementGuid>66799ed6-56ef-47ab-bbdd-f1e44598cef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4[2]</value>
+      <webElementGuid>21c73d6c-ac38-4902-91cb-904cc030bb82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = '100 Bath' or . = '100 Bath')]</value>
+      <webElementGuid>f5c69302-3839-465a-afec-46fc7670d6b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

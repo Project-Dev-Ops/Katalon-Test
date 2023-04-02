@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3 Note and Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1fa87bc0-e434-4a22-8c85-b85552d2a38e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6da9b908-423d-4d2b-a66d-9cdfed90ba71</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6da9b908-423d-4d2b-a66d-9cdfed90ba71</id>
+      <masked>false</masked>
+      <name>note</name>
+   </variable>
+</TestCaseEntity>
